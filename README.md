@@ -22,4 +22,3 @@ point is inside the Triangle1.”
 point is inside the Triangle2.”
 11. If the given point is in the Triangle3, print to screen; ”The given
 point is inside the Triangle3
-
